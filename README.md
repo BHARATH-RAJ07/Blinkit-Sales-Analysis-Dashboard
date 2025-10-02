@@ -29,3 +29,7 @@ The dataset contains retail sales data from Blinkit outlets across multiple year
    Average Sale per Transaction: ~$140.99  
    Total Sales: ~$1.20M  
    Average Rating: ~3.97# Blinkit-Sales-Analysis-Dashboard
+
+**Dashboard Link**
+
+https://public.tableau.com/app/profile/bharath.raj.s4486/viz/Book1_17593573836570/Blinkit-SalesAnalysisDashboard?publish=yes
