@@ -35,7 +35,7 @@ This project is designed to support data-driven decision-making by helping stake
 
 ## Live Interactive Dashboard
 View the fully interactive Tableau dashboard here:  
-https://public.tableau.com/views/BlinkitSalesDashboard/Dashboard1
+https://public.tableau.com/app/profile/bharath.raj.s4486/viz/Book1_17593573836570/Blinkit-SalesAnalysisDashboard?publish=yes
 
 Users can interact with filters, hover over visuals, and explore insights dynamically.
 
